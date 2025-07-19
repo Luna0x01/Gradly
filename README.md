@@ -1,3 +1,8 @@
+**⚠️ No Longer Maintained**
+
+---
+
+
 <center>
 <img src="assets/logo.png" style="border-radius: 10%; margin-top: 40px; margin-bottom: -40px" />
 <h1 style="margin-bottom: -20px">Gradly</h1>
